@@ -10,6 +10,7 @@ The package exports **SyncRequestClient** and **SyncRequestService** classes whi
 [**ts-sync-request library on npm**](https://www.npmjs.com/package/ts-sync-request)
 
 ![npm](https://img.shields.io/npm/dw/ts-sync-request)
+![npm](https://img.shields.io/npm/dy/ts-sync-request)
 
 ### API
 
